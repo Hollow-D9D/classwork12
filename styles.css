@@ -1,0 +1,18 @@
+#dateButton {
+    padding: 30px;
+    font-size: medium;
+    background-color: rgb(27, 163, 134);
+    color: rgb(50, 78, 50);
+    border-color: white;
+}
+
+#container {
+    margin-left: 35%;
+    margin-top: 17%;
+}
+
+#date {
+    position: relative;
+    font-size: 32px;
+    color: rgb(27, 163, 134);
+}
