@@ -1,0 +1,20 @@
+#inputLabel {
+    font-size: large;
+    /* color: rgb(0, 0, 0); */
+    border-color: white;
+}
+
+#container {
+    padding: 30px;
+    background-color: rgb(84, 127, 207);
+    margin-left: 35%;
+    margin-top: 17%;
+    margin-right: 50%;
+    align-content: center;
+}
+
+#inputText {
+    position: relative;
+    font-size: large;
+    /* color: rgb(27, 163, 134); */
+}
