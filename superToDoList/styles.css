@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+}
+
+.todoElem {
+    list-style: none;
+    padding: 5 px;
+}
+
+.todoElem:hover {
+    cursor: pointer;
+    color: white;
+    background-color: burlywood;
+}
+
+.isComplete {
+    text-decoration: line-through;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* #inputLabel {
+    font-size: large;
+    border-color: white;
+} */
+#container {
+    width: min-content;
+    border-color: black;
+    border-width: 1px;
+}
