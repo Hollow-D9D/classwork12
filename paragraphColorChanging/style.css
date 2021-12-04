@@ -1,0 +1,38 @@
+.slide {
+    width: 1280px;
+    height: 720px;
+}
+
+.hidden-slide {
+    display: none;
+}
+
+h1 {
+    color: rgb(65, 52, 102);
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.btn {
+    height: 720px;
+    width: 70px;
+    background-color: rgb(65, 52, 102);
+    color: rgb(197, 211, 255);
+    border-width: 1px;
+    border-color: rgb(217, 226, 255);
+}
+
+body{
+    background-color: rgb(197, 211, 255);
+}
+
+p {
+    font-size: 30px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
